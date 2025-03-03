@@ -162,7 +162,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 
-Your Name - LIANA SIMON
+Your Name - LIANA SIMON (https://github.com/LianaSimon) 
 
 
 
