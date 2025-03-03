@@ -142,13 +142,13 @@ print("The length of the tuple is :",len(the_tuple))
 
 ## Getting Started
 
-1.  **Clone the repository:**
+1.  **Clone the repository**
 
-2.  **Ensure you have Python and Jupyter Notebook installed.** If not, install Anaconda:
+2.  **Ensure you have Python and Jupyter Notebook installed.** If not, install Anaconda
 
-3.  **Open the Jupyter Notebook:**
+3.  **Open the Jupyter Notebook**
 
-4.  **Run the cells:** 
+4.  **Run the cells** 
 
 ## Usage
 
